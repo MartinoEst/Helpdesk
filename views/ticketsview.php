@@ -10,7 +10,7 @@
             <div class="mainContainer-header">
                 <a href="userTickets.php" role="button" class="btn btn-default btn-sm">Back to tickets page</a>
             </div>
-            
+
             <div class="mainContainer-body">
                 
                 <?php if ($result->num_rows > 0): ?>
