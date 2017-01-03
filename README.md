@@ -22,6 +22,7 @@ see their own tickets.
 ## Requirements
 1. PHP 5.6
 2. mySQLi activated
+
 ## License
 Licensed under MIT. You can use this script for free for any private or commercial projects.
 ## Contribute
