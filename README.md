@@ -1,4 +1,4 @@
-# PHP-Helpdesk-ticket-system
+# Helpdesk - online ticketing system.
 Helpdesk/support ticketing system written in PHP.
 ## On HOLD
 As my university academic session is starting, I won't be able to update my projects as often as I would like to.
@@ -11,7 +11,7 @@ http://helpit.martincodes.com
   * ~~Ticket system~~
   * ~~Live demo webpage~~
 
-  ## ToDO: 
+## ToDO: 
   * Refactor code
   * Comment code
   
